@@ -4,6 +4,5 @@
 3. Open the "cv.html" file in your browser
 
 ## Project Page URL
-You can also view the project ...
-url: https://github.com/aldabeks/my-tutorial-projects
+Projects url: https://roadmap.sh/projects/single-page-cv
 
