@@ -5,5 +5,5 @@
 
 ## Project Page URL
 You can also view the project ...
-https://aldabeks.github.io/my-tutorial-projects
+url: https://github.com/aldabeks/my-tutorial-projects
 
